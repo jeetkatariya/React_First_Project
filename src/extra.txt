@@ -1,0 +1,18 @@
+        // const DATA = [
+        //     {
+        //         image: require('./surf.png'),
+        //         terrain: 'Ocean',
+        //     },
+        //     {
+        //         image: require('./everest.png'),
+        //         terrain: 'Mountains',
+        //     },
+        //     {
+        //         image: require('./volcano.png'),
+        //         terrain: 'Volcanoes',
+        //     },
+        //     {
+        //         image: require('./flatland.png'),
+        //         terrain: 'Flat Land',
+        //     },
+        // ];
